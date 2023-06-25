@@ -2,6 +2,9 @@
 	关键字：cin
 	作用：从键盘获取输入。
 	语法：cin >> 变量
+
+	学习记录：
+	从键盘获取输入时不需要以 endl 结尾。
 */
 #include <iostream>
 using namespace std;
