@@ -23,7 +23,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目九：三目运算符
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十：switch语句", "项目十：switch语句\项目十：switch语句.vcxproj", "{03179F83-8F5B-41DD-A1FF-B2479CAC3727}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十一：do……while循环语句", "项目十一：do……while循环语句\项目十一：do……while循环语句.vcxproj", "{5D0F2DB6-20C9-41D0-8F69-5C66D64E19FD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十一：do……while循环语句与水仙花数", "项目十一：do……while循环语句\项目十一：do……while循环语句.vcxproj", "{5D0F2DB6-20C9-41D0-8F69-5C66D64E19FD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十二：for循环的拆分与精辟所在", "项目十二：for循环的拆分与精辟所在\项目十二：for循环的拆分与精辟所在.vcxproj", "{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,14 @@ Global
 		{5D0F2DB6-20C9-41D0-8F69-5C66D64E19FD}.Release|x64.Build.0 = Release|x64
 		{5D0F2DB6-20C9-41D0-8F69-5C66D64E19FD}.Release|x86.ActiveCfg = Release|Win32
 		{5D0F2DB6-20C9-41D0-8F69-5C66D64E19FD}.Release|x86.Build.0 = Release|Win32
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Debug|x64.ActiveCfg = Debug|x64
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Debug|x64.Build.0 = Debug|x64
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Debug|x86.Build.0 = Debug|Win32
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Release|x64.ActiveCfg = Release|x64
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Release|x64.Build.0 = Release|x64
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Release|x86.ActiveCfg = Release|Win32
+		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
