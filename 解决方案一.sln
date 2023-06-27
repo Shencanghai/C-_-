@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十一：do……whil
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十二：for循环的拆分与精辟所在", "项目十二：for循环的拆分与精辟所在\项目十二：for循环的拆分与精辟所在.vcxproj", "{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十三：continue关键字与goto关键字", "项目十三：continue关键字与goto关键字\项目十三：continue关键字与goto关键字.vcxproj", "{50623406-7DF1-4838-8535-4A2D280DCFB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Release|x64.Build.0 = Release|x64
 		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Release|x86.ActiveCfg = Release|Win32
 		{ED4AFAC0-3D2A-4D7F-956D-33D9FB1138DE}.Release|x86.Build.0 = Release|Win32
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Debug|x64.ActiveCfg = Debug|x64
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Debug|x64.Build.0 = Debug|x64
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Debug|x86.ActiveCfg = Debug|Win32
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Debug|x86.Build.0 = Debug|Win32
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Release|x64.ActiveCfg = Release|x64
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Release|x64.Build.0 = Release|x64
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Release|x86.ActiveCfg = Release|Win32
+		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
