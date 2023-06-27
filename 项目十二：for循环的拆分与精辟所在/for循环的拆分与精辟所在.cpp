@@ -15,6 +15,7 @@
 
 	学习记录：
 	1. for (;;) 注意这是一个无限循环，必须要人为指定什么时候使用break终止程序。
+	2. 注意九九乘法表的内部的for循环的循环条件是 列数的迭代<=行数的迭代 。
 */
 #include <iostream>
 using namespace std;
@@ -52,7 +53,25 @@ int main()
 		{
 			cout << i << endl;
 		}
+	}
 
+	// 九九乘法表（错误的）
+	//for (int n = 1; n < 10; n++)
+	//{
+	//	for (int m = 1; m < 10; m++)
+	//	{
+	//		int sum = n * m;
+	//		cout << m << "×" << n << "=" << sum << "\t";
+	//	}
+	//	cout << endl;
+	//}
+	for (int i = 1; i <= 9; i++) 
+	{
+		for (int j = 1; j <= i; j++) 
+		{
+			cout << j << " * " << i << " = " << j * i << "\t";
+		}
+		cout << endl;
 	}
 
 	system("pause");
