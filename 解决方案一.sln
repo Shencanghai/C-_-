@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十二：for循环的
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十三：continue关键字与goto关键字", "项目十三：continue关键字与goto关键字\项目十三：continue关键字与goto关键字.vcxproj", "{50623406-7DF1-4838-8535-4A2D280DCFB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十四：一维和多维数组", "项目十四：一维和多维数组\项目十四：一维和多维数组.vcxproj", "{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Release|x64.Build.0 = Release|x64
 		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Release|x86.ActiveCfg = Release|Win32
 		{50623406-7DF1-4838-8535-4A2D280DCFB7}.Release|x86.Build.0 = Release|Win32
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Debug|x64.ActiveCfg = Debug|x64
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Debug|x64.Build.0 = Debug|x64
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Debug|x86.ActiveCfg = Debug|Win32
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Debug|x86.Build.0 = Debug|Win32
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Release|x64.ActiveCfg = Release|x64
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Release|x64.Build.0 = Release|x64
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Release|x86.ActiveCfg = Release|Win32
+		{DED10F57-D63A-4FAB-A0C8-BFDED27DE033}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
