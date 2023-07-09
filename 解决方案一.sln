@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十八：利用指针
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目十九：指针、数组、函数综合案例", "项目十九：指针、数组、函数综合案例\项目十九：指针、数组、函数综合案例.vcxproj", "{1D60B478-CC29-40E9-8EE9-A1912BBF01D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目二十：结构体", "项目二十：结构体\项目二十：结构体.vcxproj", "{88FFF94A-209A-4088-9F3E-54014052FC57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{1D60B478-CC29-40E9-8EE9-A1912BBF01D8}.Release|x64.Build.0 = Release|x64
 		{1D60B478-CC29-40E9-8EE9-A1912BBF01D8}.Release|x86.ActiveCfg = Release|Win32
 		{1D60B478-CC29-40E9-8EE9-A1912BBF01D8}.Release|x86.Build.0 = Release|Win32
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Debug|x64.ActiveCfg = Debug|x64
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Debug|x64.Build.0 = Debug|x64
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Debug|x86.ActiveCfg = Debug|Win32
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Debug|x86.Build.0 = Debug|Win32
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Release|x64.ActiveCfg = Release|x64
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Release|x64.Build.0 = Release|x64
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Release|x86.ActiveCfg = Release|Win32
+		{88FFF94A-209A-4088-9F3E-54014052FC57}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
